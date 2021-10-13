@@ -4,16 +4,31 @@
     clear: both;
 }
 
-#logo {
+#mc-logo {
     background-color: black;
     height: 50px;
     width: 100%;
     position: fixed;
-    z-index: 999;
 }
 
-#logo>img {
+#mc-logo>img {
     float: right;
     height: 25px;
     margin-top: 12px;
+    margin-right: 5px;
 }
+
+.mc-nav {
+    margin-top: 50px;
+    width: 100%;
+    position: fixed;
+}
+
+.mc-button {
+    background-color: #363636;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    margin-right: 10px;
+}
+
