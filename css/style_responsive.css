@@ -7,6 +7,9 @@
 
 @media screen and (max-width: 768px) {
     
+    .mc-play5par {
+        text-align: center;
+    }
 }
 
 @media screen and (max-width: 992px) {
