@@ -20,7 +20,6 @@
 }
 
 .mc-nav {
-    margin-top: 10px;
     width: 100%;
     position: sticky;
     z-index: 999;
@@ -36,12 +35,17 @@
 
 #mc-jumbo {
     background-image: url(../img/jumbo-bg.png);
-    height: 75vh;
+    height: 80vh;
     background-position: top;
+    position: relative;
 }
 
 #mc-jdescr {
     color: white;
+    width: 50%;
+    position: absolute;
+    top: 200px;
+    left: 50px;
 }
 
 #mc-jtitle {
