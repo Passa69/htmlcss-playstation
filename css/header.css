@@ -9,6 +9,7 @@
     height: 50px;
     width: 100%;
     position: fixed;
+    z-index: 999;
 }
 
 #mc-logo>img {
@@ -22,6 +23,7 @@
     margin-top: 50px;
     width: 100%;
     position: fixed;
+    z-index: 999;
 }
 
 .mc-button {
@@ -32,3 +34,28 @@
     margin-right: 10px;
 }
 
+#mc-jumbo {
+    background-image: url(../img/jumbo-bg.png);
+    height: 95vh;
+    position: relative;
+}
+
+#mc-jdescr {
+    color: white;
+    width: 30%;
+    position: absolute;
+    top: 300px;
+    left: 50px;
+}
+
+#mc-jtitle {
+    margin-bottom: 50px;
+}
+
+#mc-jp {
+    margin-bottom: 50px;
+}
+
+.mc-jb {
+    background-color: #cd3d0f;
+}
