@@ -1,0 +1,19 @@
+.clearfix::after {
+    contain: "";
+    display: table;
+    clear: both;
+}
+
+#logo {
+    background-color: black;
+    height: 50px;
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+}
+
+#logo>img {
+    float: right;
+    height: 25px;
+    margin-top: 12px;
+}
