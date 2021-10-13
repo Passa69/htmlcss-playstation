@@ -9,6 +9,8 @@
     height: 50px;
     width: 100%;
     position: sticky;
+    top: 0;
+    left: 0;
     z-index: 999;
 }
 
@@ -19,9 +21,11 @@
     margin-right: 5px;
 }
 
-.mc-nav {
+#mc-nav {
     width: 100%;
     position: sticky;
+    top: 50px;
+    left: 0;
     z-index: 999;
 }
 
