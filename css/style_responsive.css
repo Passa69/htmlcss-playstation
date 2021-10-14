@@ -1,7 +1,12 @@
-@media screen and (max-width: 576px) {
+@media screen and (min-width: 992px) {
     
-    #mc-jdescr {
-        width: 90%;
+}
+
+@media screen and (max-width: 992px) {
+    
+    #mc-gamedescr {
+        width: 50%;
+        top: 100px;
     }
 }
 
@@ -16,10 +21,9 @@
     }
 }
 
-@media screen and (max-width: 992px) {
+@media screen and (max-width: 576px) {
     
-}
-
-@media screen and (min-width: 992px) {
-    
+    #mc-jdescr {
+        width: 90%;
+    }
 }

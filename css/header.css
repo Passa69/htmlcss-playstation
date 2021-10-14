@@ -37,14 +37,14 @@
     margin-right: 10px;
 }
 
-#mc-jumbo {
+.mc-jumbo {
     background-image: url(../img/jumbo-bg.png);
     height: 80vh;
     background-position: top;
     position: relative;
 }
 
-#mc-jdescr {
+.mc-jdescr {
     color: white;
     width: 50%;
     position: absolute;
@@ -52,11 +52,11 @@
     left: 50px;
 }
 
-#mc-jtitle {
+.mc-jtitle {
     margin-bottom: 50px;
 }
 
-#mc-jp {
+.mc-jp {
     margin-bottom: 50px;
 }
 

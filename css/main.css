@@ -66,3 +66,31 @@
 }
 
 /* game (it takes two) */
+#mc-game {
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    height: 500px;
+    background-size: cover;
+    margin-top: 50px;
+    background-position: center;
+    position: relative;
+}
+
+#mc-gamedescr {
+    color: white;
+    width: 30%;
+    position: absolute;
+    top: 140px;
+    left: 50px;
+}
+
+.mc-jtitle {
+    margin-bottom: 50px;
+}
+
+.mc-jp {
+    margin-bottom: 50px;
+}
+
+.mc-jb {
+    background-color: #cd3d0f;
+}
