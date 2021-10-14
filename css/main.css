@@ -93,6 +93,10 @@ p>a {
     left: 50px;
 }
 
+#mc-gamelogo {
+    width: 30%;
+}
+
 /* new releases */
 #mc-newgm {
     background-color: #1f1f1f;

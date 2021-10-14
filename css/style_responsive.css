@@ -38,11 +38,33 @@
         width: 70%;
         left: 80px;
     }
+
+    #mc-jumbologo {
+        width: 70%;
+    }
+
+    #mc-game {
+        height: 600px;
+        margin-top: 50px;
+    }
+
+    #mc-gamedescr {
+        width: 90%;
+    }
+
+    #mc-gamelogo {
+        width: 50%;
+    }
 }
 
 @media screen and (max-width: 576px) {
     
     #mc-jdescr {
         width: 90%;
+    }
+
+    #mc-jumbologo {
+        width: 90%;
+        margin-bottom: 20px;
     }
 }
