@@ -83,14 +83,12 @@
     left: 50px;
 }
 
-.mc-jtitle {
-    margin-bottom: 50px;
+/* new releases */
+.mc-newgm {
+    background-color: #1f1f1f;
 }
 
-.mc-jp {
-    margin-bottom: 50px;
-}
-
-.mc-jb {
-    background-color: #cd3d0f;
+#mc-newdescr {
+    color: white;
+    margin-left: 15px;
 }
