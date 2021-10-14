@@ -8,7 +8,7 @@
 }
 
 /* title, play5 */
-#mc-titleplay5 {
+.mc-titleplay5 {
     text-align: center;
     margin: 50px 0;
 }
@@ -111,3 +111,5 @@
     color: white;
     padding-left: 10px;
 }
+
+/* title, play4 */
