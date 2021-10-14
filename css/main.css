@@ -51,3 +51,18 @@
 .mc-play5img {
     width: 10%;
 }
+
+.selected {
+    border-bottom: 1px solid #2d8ad5;
+}
+
+.deselected {
+    opacity: 0.5;
+}
+
+.deselected:hover {
+    opacity: 1;
+    border-bottom: 1px solid #2d8ad5;
+}
+
+/* game (it takes two) */
