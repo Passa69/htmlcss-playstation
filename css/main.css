@@ -119,3 +119,31 @@ p>a {
 
 /* title, play4 */
 /* play4 */
+/* play plus */
+#mc-gameplus {
+    background-color: #bebcbb;
+    background-image: url(../img/ps-plus-april-monthly-games-featured-image-block.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 500px;
+    margin-top: 50px;
+    position: relative;
+}
+
+#mc-gameplusdescr {
+    width: 40%;
+    position: absolute;
+    top: 120px;
+    left: 50px;
+}
+
+#mc-gamepluslogo {
+    margin-bottom: 50px;
+}
+
+.mc-gpb {
+    background-color: #d9dadc;
+    color: #3b6ee4;
+    padding: 5px 10px;
+}
