@@ -12,6 +12,10 @@
         width: 50%;
         top: 100px;
     }
+
+    #mc-gameplusdescr {
+        width: 30%;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -22,6 +26,17 @@
 
     .mc-play5img {
         width: 30%;
+    }
+
+    #mc-gameplus {
+        background-image: none;
+        height: 400px;
+        margin-top: 20px;
+    }
+
+    #mc-gameplusdescr {
+        width: 70%;
+        left: 80px;
     }
 }
 
