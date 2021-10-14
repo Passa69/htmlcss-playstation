@@ -16,6 +16,10 @@
     #mc-gameplusdescr {
         width: 30%;
     }
+
+    .mc-playnowdescr {
+        width: 40%;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -53,6 +57,19 @@
 
     #mc-gamelogo {
         width: 50%;
+    }
+
+    #mc-playnow {
+        background-color: #161c3b;
+        background-image: none;
+        height: 300px;
+        margin-top: 50px;
+        position: relative;
+    }
+
+    .mc-playnowdescr {
+        width: 90%;
+        top: 20px;
     }
 }
 

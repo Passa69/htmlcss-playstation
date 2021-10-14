@@ -161,3 +161,20 @@ p>a {
 .mc-discounts {
     margin-top: 20px;
 }
+
+/* play now */
+#mc-playnow {
+    background-color: #161c3b;
+    background-image: url(../img/ps-now-april-featured-image-block.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: right;
+    height: 500px;
+    margin-top: 50px;
+    position: relative;
+}
+
+#mc-playnowlogo {
+    width: 50%;
+    margin-bottom: 50px;
+}
