@@ -1,10 +1,11 @@
 /* games */
 .mc-games {
-    padding: 30px 15px;
+    padding: 10px;
 }
 
-.mc-gamesrow {
-    width: 100%;
+.mc-gameselement {
+    margin: 0 auto;
+    padding: 10px 0;
 }
 
 /* title, play5 */
@@ -13,13 +14,17 @@
     margin: 50px 0;
 }
 
-#mc-titleplay5>a {
+#mc-titleplay5>p {
+    text-align: center;
+}
+
+p>a {
     text-decoration: none;
     color: #1f83d3;
 }
 
 /* play5 */
-#mc-play5 {
+.mc-play5 {
     margin: 50px 25px;
 }
 
@@ -113,3 +118,4 @@
 }
 
 /* title, play4 */
+/* play4 */
