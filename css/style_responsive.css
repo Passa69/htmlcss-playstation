@@ -20,6 +20,14 @@
     .mc-playnowdescr {
         width: 40%;
     }
+
+    .mc-flogo {
+        width: 15%;
+    }
+    
+    .mc-fpar {
+        width: 100%;
+    }
 }
 
 @media screen and (max-width: 768px) {
@@ -81,5 +89,9 @@
     #mc-jumbologo {
         width: 90%;
         margin-bottom: 20px;
+    }
+
+    .mc-flogo {
+        width: 25%;
     }
 }
