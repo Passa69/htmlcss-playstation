@@ -5,6 +5,7 @@ footer {
 }
 
 /* up */
+/* logo ps */
 .mc-flogops {
     margin: 20px 0;
 }
@@ -19,6 +20,17 @@ footer {
     font-size: 15px;
     position: relative;
     bottom: 8px;
+}
+
+/* links */
+.mc-flink {
+    margin: 20px 0;
+}
+
+.mc-flink>a {
+    display: block;
+    color: white;
+    text-decoration: none;
 }
 
 /* down */
