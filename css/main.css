@@ -7,11 +7,12 @@
 /* title, play5 */
 .mc-titleplay5 {
     text-align: center;
-    margin: 50px 0;
+    margin: 10px 0 50px 0;
 }
 
 #mc-titleplay5>p {
     text-align: center;
+    margin: 20px 0;
 }
 
 p>a {
