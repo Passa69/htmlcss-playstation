@@ -5,7 +5,21 @@ footer {
 }
 
 /* up */
+.mc-flogops {
+    margin: 20px 0;
+}
 
+.mc-fglobe {
+    width: 4%;
+    margin-bottom: 20px;
+}
+
+.mc-language {
+    color: white;
+    font-size: 15px;
+    position: relative;
+    bottom: 8px;
+}
 
 /* down */
 .mc-flogo {
