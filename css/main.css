@@ -27,6 +27,7 @@ p>a {
 
 .mc-play5par {
     margin-top: 20%;
+    padding-left: 50px;
 }
 
 #mc-play5title {
@@ -120,6 +121,10 @@ p>a {
 
 /* title, play4 */
 /* play4 */
+.mc-ps4vr {
+    margin-top: 25px;
+}
+
 /* play plus */
 #mc-gameplus {
     background-color: #bebcbb;
