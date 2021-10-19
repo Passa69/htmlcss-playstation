@@ -46,6 +46,7 @@
     height: 80vh;
     margin-top: 125px;
     background-position: top;
+    background-size: cover;
     position: relative;
 }
 
